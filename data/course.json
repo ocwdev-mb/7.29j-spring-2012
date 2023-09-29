@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2012",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neurobiology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ]
+  ],
+  "legacy_uid": "0830e9a8-0aff-6dc5-c6e2-3d7adc975e5c",
+  "instructors": {
+    "content": [
+      "d693e5f2-470c-1f56-f86d-91de0cc9645a",
+      "6e6006b1-1e62-f7a7-606d-6050e56237cf"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "3977ecfd-ec55-3243-8e5c-747f4756a1b1",
+    "website": "7-29j-cellular-neurobiology-spring-2012"
+  },
+  "course_title": "Cellular Neurobiology",
+  "course_description": "This course serves as an introduction to the structure and function of the nervous system. Emphasis is placed on the cellular properties of neurons and other excitable cells. Topics covered include the structure and biophysical properties of excitable cells, synaptic transmission, neurochemistry, neurodevelopment, and the integration of information in simple systems and the visual system.\n",
+  "department_numbers": [
+    "7",
+    "9"
+  ],
+  "extra_course_numbers": "9.09J",
+  "primary_course_number": "7.29J",
+  "course_image_thumbnail": {
+    "content": "226aa2de-1843-fa09-596c-f641b6e860ff",
+    "website": "7-29j-cellular-neurobiology-spring-2012"
+  },
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "2396401b-b8fa-4c1c-abee-ef4145e18709",
+  "site_short_id": "7.29j-spring-2012",
+  "title": "Course Metadata"
+}
